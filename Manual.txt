@@ -1,0 +1,72 @@
+Project Manual: Study the Impact of EVs on Indian Economy
+
+
+
+Introduction: 
+
+Our country India invests its large amount of capital into import of crude oil and natural gas (petroleum products) and this is around 32% of total import done by India.  Since that amount is paid in the form of dollars, it causes the devaluation of Indian Rupees in the international market. This gives rise to inflation and due to this indian economy suffers a lot.
+In order to relax the economic dependence on petroleum products, the Government has taken initiative
+to promote electric vehicles.  This is directly related to common men’s life and has ability to bring
+out a revolution in the transport sector of India and boost up the economy.
+So we would like to analyse the following aspects:
+
+
+
+Directory Structure: 
+
+The main directory is ‘g5-project’
+
+g5-project
+├── Data sets
+│   ├── VehicleDataSet
+│   ├── Oil Data
+│   ├── Electricity consumed by EVs
+│   └── Electricity price in India
+├── Code
+│   ├── g5-source-code.ipynb
+│   ├── g5.sh
+│   └── output
+├── Report and Presentation
+│   ├── g5-report.pdf
+│   └── g5-slides.pptx
+├── README.txt
+└── Manual.txt
+
+
+
+Flowchart:
+
+Here is work flow of our project implementation.
+
+
+Prediction of EV Sales by 2030
+		│
+		V
+Study the Impact of EVs on Oil prices and Oil imports
+		│
+		V
+Prediction of EVs future market share and study its impact on Indian power sector
+		│
+		V
+Study the impact of EVs on future petrol prices
+		│
+		V
+Study the monetary impact of EVs on Indian Economy
+		│
+		V
+Study the impact of EVs on reduction in CO2 emission
+
+
+
+Instructions to run the project are as follows:
+
+1. Before running this project please refer README.txt
+2. Unzip the file g5-project.zip
+3. There will be three subdirectories in g5-project directory. Refer above 'Directory Structure'
+4. Go to the Code directory. There will be g5.sh file.
+5. Open the terminal at Code directory and type and run 'bash g5.sh' command
+6. After successful execution of above command the output files will be generated in 'Code\output' directory
+
+
+
+
